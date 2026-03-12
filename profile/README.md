@@ -1,77 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1d4ed8&height=260&section=header&text=Beforth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=260&section=header&text=Beforth&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Software+Platform;HRMS+%7C+CRM+%7C+ERP+%7C+POS;Automation+Systems+for+Modern+Businesses;Building+The+Future+of+Business+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Business+Software;HRMS+•+CRM+•+ERP+•+POS;Automation+Systems+for+Modern+Companies;Building+The+Future+of+Business+Infrastructure"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Beforth&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/badge/Built%20by-Beforth-2563eb?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Focus-Enterprise%20Software-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-Full%20Stack-22c55e?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# Beforth
+# About Beforth
 
-Beforth builds **modern enterprise software platforms** designed to power the next generation of companies.
+Beforth builds **modern enterprise platforms** designed to simplify how companies operate.
 
-Our mission is to create **automation-driven systems** that simplify operations and scale with businesses.
+We develop **automation-driven systems** that help businesses manage their people, customers, operations, and sales in one powerful ecosystem.
 
 ---
 
 # Core Platforms
 
-## HRMS
-Human Resource Management platform for modern teams.
+### HRMS
+Human Resource Management System designed for modern companies.
 
-**Features**
-
-- Employee management  
-- Attendance tracking  
-- Payroll system  
-- Permissions & roles  
+• employee management  
+• attendance & payroll  
+• permissions & roles  
+• HR analytics  
 
 ---
 
-## Marketing / CRM
-
+### Marketing / CRM
 Customer relationship and marketing automation platform.
 
-**Features**
-
-- Lead management  
-- Campaign automation  
-- Sales pipelines  
-- Customer analytics  
+• lead management  
+• campaign tracking  
+• sales pipelines  
+• marketing analytics  
 
 ---
 
-## ERP
+### ERP
+Enterprise resource planning system for managing company operations.
 
-Enterprise Resource Planning platform for managing operations.
-
-**Features**
-
-- Inventory systems  
-- Finance tracking  
-- Procurement workflows  
-- Operational dashboards  
+• inventory management  
+• finance tracking  
+• procurement workflows  
+• operational dashboards  
 
 ---
 
-## Crumble POS
+### Crumble POS
+Modern point-of-sale system for retail and restaurants.
 
-Modern retail and restaurant **Point of Sale system**.
-
-**Features**
-
-- Fast billing  
-- Real-time inventory sync  
-- Sales analytics  
-- Order management  
+• fast billing  
+• inventory sync  
+• order management  
+• sales analytics  
 
 ---
 
@@ -85,7 +76,7 @@ Modern retail and restaurant **Point of Sale system**.
 
 ---
 
-# GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
@@ -119,9 +110,9 @@ Modern retail and restaurant **Point of Sale system**.
 
 # Vision
 
-We are building a **complete ecosystem of business software**.
+We are building a **complete ecosystem of enterprise software**.
 
-From **HR management to sales, operations, and retail systems**, Beforth aims to create the infrastructure that modern companies run on.
+From **HR management to sales, operations, and retail systems**, Beforth aims to create the infrastructure that modern companies rely on.
 
 ---
 
@@ -131,5 +122,4 @@ From **HR management to sales, operations, and retail systems**, Beforth aims to
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:020617&height=140&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=120&section=footer"/>
