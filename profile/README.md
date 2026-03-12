@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=260&section=header&text=Beforth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Beforth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Business+Software;HRMS+•+CRM+•+ERP+•+POS;Automation+Systems+for+Modern+Companies;Building+Modern+Business+Infrastructure"/>
+### Modern Business Infrastructure
+
+Enterprise platforms for **HR • Marketing • Operations • Retail**
 
 </div>
 
@@ -12,39 +14,36 @@
 
 # About Beforth
 
-**Beforth** builds modern software platforms designed to power businesses.
+**Beforth** develops modern enterprise software designed to simplify business operations.
 
-Our goal is to create **scalable, automation-driven systems** that help companies manage operations, people, and customers efficiently.
+We build scalable systems that help organizations manage **people, customers, operations, and sales** in one ecosystem.
 
 ---
 
 # Core Platforms
 
-## HRMS
-
-Human Resource Management platform designed for modern organizations.
+### HRMS
+Human Resource Management System built for modern companies.
 
 - employee management  
 - attendance tracking  
-- payroll systems  
-- role & permission management  
+- payroll automation  
+- permission systems  
 
 ---
 
-## Marketing / CRM
-
+### Marketing
 Customer relationship and marketing automation platform.
 
 - lead management  
+- campaign tracking  
 - sales pipelines  
-- campaign automation  
 - customer analytics  
 
 ---
 
-## ERP
-
-Enterprise Resource Planning system for business operations.
+### ERP Dashboard
+Enterprise resource planning system for managing operations.
 
 - inventory management  
 - finance tracking  
@@ -53,9 +52,8 @@ Enterprise Resource Planning system for business operations.
 
 ---
 
-## Crumble POS
-
-Modern point-of-sale system for retail and restaurants.
+### Crumble POS
+Modern retail and restaurant point-of-sale platform.
 
 - fast billing  
 - order management  
@@ -68,7 +66,7 @@ Modern point-of-sale system for retail and restaurants.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,postgres,docker,git,github,python"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,postgres,docker,git,github,python" />
 
 </div>
 
@@ -78,21 +76,9 @@ Modern point-of-sale system for retail and restaurants.
 
 <div align="center">
 
-<a href="https://github.com/Beforth/hrms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=hrms&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Beforth/erp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=erp&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Beforth/crm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crm&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Beforth/crumble-pos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crumble-pos&theme=tokyonight&hide_border=true"/>
-</a>
+| HRMS | Marketing | ERP Dashboard | Crumble POS |
+|------|-----------|---------------|-------------|
+| Human resource management platform | Marketing & CRM automation system | Business operations platform | Retail & restaurant POS system |
 
 </div>
 
@@ -102,7 +88,7 @@ Modern point-of-sale system for retail and restaurants.
 
 We are building a **complete ecosystem of business software**.
 
-From **human resources and marketing to operations and retail**, Beforth aims to provide the infrastructure that modern companies rely on.
+From **HR and marketing to operations and retail**, Beforth provides the infrastructure modern companies rely on.
 
 ---
 
@@ -112,4 +98,4 @@ From **human resources and marketing to operations and retail**, Beforth aims to
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
