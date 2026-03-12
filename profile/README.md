@@ -4,33 +4,30 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Enterprise+Business+Software;HRMS+•+CRM+•+ERP+•+POS;Automation+Systems+for+Modern+Companies;Building+Next+Generation+Business+Infrastructure"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Beforth&style=for-the-badge&color=2563eb"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Enterprise+Business+Software;HRMS+•+CRM+•+ERP+•+POS;Automation+Systems+for+Modern+Companies;Building+Modern+Business+Infrastructure"/>
 
 </div>
 
 ---
 
-# Beforth
+# About Beforth
 
-Beforth builds **modern enterprise platforms** that help businesses automate operations and scale efficiently.
+**Beforth** builds modern software platforms designed to power businesses.
 
-Our ecosystem connects **HR, marketing, operations, and retail systems** into one unified infrastructure.
+Our goal is to create **scalable, automation-driven systems** that help companies manage operations, people, and customers efficiently.
 
 ---
 
-# Core Products
+# Core Platforms
 
 ## HRMS
-Human Resource Management platform for modern companies.
 
-• employee management  
-• attendance tracking  
-• payroll automation  
-• permission systems  
+Human Resource Management platform designed for modern organizations.
+
+- employee management  
+- attendance tracking  
+- payroll systems  
+- role & permission management  
 
 ---
 
@@ -38,96 +35,64 @@ Human Resource Management platform for modern companies.
 
 Customer relationship and marketing automation platform.
 
-• lead management  
-• sales pipelines  
-• campaign automation  
-• analytics dashboards  
+- lead management  
+- sales pipelines  
+- campaign automation  
+- customer analytics  
 
 ---
 
 ## ERP
 
-Enterprise resource planning platform for company operations.
+Enterprise Resource Planning system for business operations.
 
-• inventory systems  
-• finance tracking  
-• procurement workflows  
-• operational dashboards  
+- inventory management  
+- finance tracking  
+- procurement workflows  
+- operational dashboards  
 
 ---
 
 ## Crumble POS
 
-Modern retail and restaurant **point-of-sale platform**.
+Modern point-of-sale system for retail and restaurants.
 
-• fast billing  
-• real-time inventory sync  
-• order management  
-• sales analytics  
+- fast billing  
+- order management  
+- real-time inventory sync  
+- sales analytics  
 
 ---
 
-# Tech Stack
+# Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,firebase,postgres,docker,git,github,python,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,postgres,docker,git,github,python"/>
 
 </div>
 
 ---
 
-# Featured Projects
+# Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/Beforth/hrms">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=hrms&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Beforth/crm">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crm&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=hrms&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Beforth/erp">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=erp&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=erp&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Beforth/crm">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crm&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Beforth/crumble-pos">
-<img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crumble-pos&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Beforth&repo=crumble-pos&theme=tokyonight&hide_border=true"/>
 </a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Beforth&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Beforth&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beforth&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Beforth/Beforth/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -135,9 +100,9 @@ Modern retail and restaurant **point-of-sale platform**.
 
 # Vision
 
-We are building a **complete ecosystem of enterprise software**.
+We are building a **complete ecosystem of business software**.
 
-From **HR management to customer relationships, operations, and retail**, Beforth is creating the infrastructure that modern companies run on.
+From **human resources and marketing to operations and retail**, Beforth aims to provide the infrastructure that modern companies rely on.
 
 ---
 
