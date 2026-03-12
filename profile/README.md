@@ -2,30 +2,34 @@
 
 # Beforth
 
-### Building modern business infrastructure
+### Modern Business Infrastructure
 
-Enterprise platforms for **HR • Marketing • Operations • Retail**
+Platforms powering **HR • Marketing • Operations • Retail**
 
 </div>
 
 ---
 
-## About
+## About Beforth
 
-**Beforth** builds modern enterprise software that helps businesses operate efficiently.
+**Beforth** builds modern enterprise software designed to simplify how companies operate.
 
-Our platforms connect **people management, marketing, operations, and retail systems** into one ecosystem.
+Our ecosystem connects **people management, marketing, operations, and retail systems** into one scalable platform.
 
 ---
 
-## Products
+## Platforms
+
+<div align="center">
 
 | Product | Description |
-|--------|-------------|
+|-------|-------------|
 | 👥 **HRMS** | Human resource management platform for employee operations |
-| 📢 **Marketing** | CRM & marketing automation system |
+| 📣 **Marketing** | CRM and marketing automation system |
 | 📊 **ERP Dashboard** | Business operations and analytics platform |
-| 🧾 **Crumble POS** | Retail & restaurant point-of-sale system |
+| 🧾 **Crumble POS** | Retail and restaurant point-of-sale system |
+
+</div>
 
 ---
 
@@ -33,22 +37,22 @@ Our platforms connect **people management, marketing, operations, and retail sys
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,postgres,docker,git,github,python" />
+React • Next.js • Django • Node.js • PostgreSQL • Docker • Tailwind • GitHub
 
 </div>
 
 ---
 
-## Vision
+## Our Vision
 
 We are building a **complete ecosystem of business software**.
 
-From **HR management to operations and retail**, Beforth aims to provide the infrastructure modern companies rely on.
+From **HR management to customer relationships and retail systems**, Beforth aims to provide the infrastructure that modern companies rely on.
 
 ---
 
 <div align="center">
 
-**Beforth — Business Infrastructure Software**
+**Beforth — Building the infrastructure for modern businesses**
 
 </div>
