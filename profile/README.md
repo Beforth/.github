@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=260&section=header&text=Beforth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Beforth&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### Modern Business Infrastructure
 
@@ -14,51 +12,51 @@ Enterprise platforms for **HR • Marketing • Operations • Retail**
 
 # About Beforth
 
-**Beforth** develops modern enterprise software designed to simplify business operations.
+**Beforth** builds modern enterprise software that helps businesses run faster and more efficiently.
 
-We build scalable systems that help organizations manage **people, customers, operations, and sales** in one ecosystem.
-
----
-
-# Core Platforms
-
-### HRMS
-Human Resource Management System built for modern companies.
-
-- employee management  
-- attendance tracking  
-- payroll automation  
-- permission systems  
+Our platforms unify **people management, marketing, operations, and retail systems** into a single ecosystem.
 
 ---
 
-### Marketing
-Customer relationship and marketing automation platform.
+# Products
 
-- lead management  
-- campaign tracking  
-- sales pipelines  
-- customer analytics  
+### 👥 HRMS  
+Human Resource Management platform
 
----
-
-### ERP Dashboard
-Enterprise resource planning system for managing operations.
-
-- inventory management  
-- finance tracking  
-- procurement workflows  
-- operational dashboards  
+• employee management  
+• attendance tracking  
+• payroll automation  
+• role permissions  
 
 ---
 
-### Crumble POS
-Modern retail and restaurant point-of-sale platform.
+### 📢 Marketing  
+Marketing & CRM automation system
 
-- fast billing  
-- order management  
-- real-time inventory sync  
-- sales analytics  
+• lead management  
+• campaign tracking  
+• sales pipelines  
+• customer analytics  
+
+---
+
+### 📊 ERP Dashboard  
+Enterprise operations platform
+
+• inventory management  
+• financial tracking  
+• procurement workflows  
+• operational dashboards  
+
+---
+
+### 🧾 Crumble POS  
+Retail & restaurant point-of-sale system
+
+• fast billing  
+• real-time inventory sync  
+• order management  
+• sales analytics  
 
 ---
 
@@ -72,19 +70,7 @@ Modern retail and restaurant point-of-sale platform.
 
 ---
 
-# Featured Repositories
-
-<div align="center">
-
-| HRMS | Marketing | ERP Dashboard | Crumble POS |
-|------|-----------|---------------|-------------|
-| Human resource management platform | Marketing & CRM automation system | Business operations platform | Retail & restaurant POS system |
-
-</div>
-
----
-
-# Vision
+# Our Vision
 
 We are building a **complete ecosystem of business software**.
 
