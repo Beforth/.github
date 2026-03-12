@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=240&section=header&text=Beforth&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# Beforth
 
-### Modern Business Infrastructure
+### Building modern business infrastructure
 
 Enterprise platforms for **HR • Marketing • Operations • Retail**
 
@@ -10,57 +10,26 @@ Enterprise platforms for **HR • Marketing • Operations • Retail**
 
 ---
 
-# About Beforth
+## About
 
-**Beforth** builds modern enterprise software that helps businesses run faster and more efficiently.
+**Beforth** builds modern enterprise software that helps businesses operate efficiently.
 
-Our platforms unify **people management, marketing, operations, and retail systems** into a single ecosystem.
-
----
-
-# Products
-
-### 👥 HRMS  
-Human Resource Management platform
-
-• employee management  
-• attendance tracking  
-• payroll automation  
-• role permissions  
+Our platforms connect **people management, marketing, operations, and retail systems** into one ecosystem.
 
 ---
 
-### 📢 Marketing  
-Marketing & CRM automation system
+## Products
 
-• lead management  
-• campaign tracking  
-• sales pipelines  
-• customer analytics  
-
----
-
-### 📊 ERP Dashboard  
-Enterprise operations platform
-
-• inventory management  
-• financial tracking  
-• procurement workflows  
-• operational dashboards  
+| Product | Description |
+|--------|-------------|
+| 👥 **HRMS** | Human resource management platform for employee operations |
+| 📢 **Marketing** | CRM & marketing automation system |
+| 📊 **ERP Dashboard** | Business operations and analytics platform |
+| 🧾 **Crumble POS** | Retail & restaurant point-of-sale system |
 
 ---
 
-### 🧾 Crumble POS  
-Retail & restaurant point-of-sale system
-
-• fast billing  
-• real-time inventory sync  
-• order management  
-• sales analytics  
-
----
-
-# Technology Stack
+## Technology
 
 <div align="center">
 
@@ -70,18 +39,16 @@ Retail & restaurant point-of-sale system
 
 ---
 
-# Our Vision
+## Vision
 
 We are building a **complete ecosystem of business software**.
 
-From **HR and marketing to operations and retail**, Beforth provides the infrastructure modern companies rely on.
+From **HR management to operations and retail**, Beforth aims to provide the infrastructure modern companies rely on.
 
 ---
 
 <div align="center">
 
-### Building the infrastructure for modern businesses
+**Beforth — Business Infrastructure Software**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
