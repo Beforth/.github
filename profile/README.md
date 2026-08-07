@@ -16,9 +16,11 @@ Platforms powering **HR · Marketing · Operations · Retail**
 
 ## About
 
-**BeForth** builds modern enterprise software that simplifies how companies operate.
+**BeForth** is a custom software development company based in **Nashik, Maharashtra, India**, building ERP systems, CRMs, HRMS, and web and mobile apps for businesses across India and globally.
 
 Our ecosystem connects **people management, marketing, operations, and retail** into a single, scalable platform — so growing businesses can run on one connected stack instead of a patchwork of disconnected tools.
+
+📍 Nashik, Maharashtra, India&nbsp;&nbsp;·&nbsp;&nbsp;🌐 [beforth.in](https://beforth.in)
 
 <br/>
 
