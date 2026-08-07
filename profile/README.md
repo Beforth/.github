@@ -1,58 +1,96 @@
 <div align="center">
 
-# Beforth
+# BeForth
 
-### Modern Business Infrastructure
+**Modern Business Infrastructure**
 
-Platforms powering **HR • Marketing • Operations • Retail**
+Platforms powering **HR · Marketing · Operations · Retail**
+
+<br/>
+
+`React` `Next.js` `Django` `Node.js` `PostgreSQL` `Docker` `Tailwind CSS`
 
 </div>
 
----
+<br/>
 
-## About Beforth
+## About
 
-**Beforth** builds modern enterprise software designed to simplify how companies operate.
+**BeForth** builds modern enterprise software that simplifies how companies operate.
 
-Our ecosystem connects **people management, marketing, operations, and retail systems** into one scalable platform.
+Our ecosystem connects **people management, marketing, operations, and retail** into a single, scalable platform — so growing businesses can run on one connected stack instead of a patchwork of disconnected tools.
 
----
+<br/>
 
 ## Platforms
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Product | Description |
-|-------|-------------|
-| 👥 **HRMS** | Human resource management platform for employee operations |
-| 📣 **Marketing** | CRM and marketing automation system |
-| 📊 **ERP Dashboard** | Business operations and analytics platform |
-| 🧾 **Crumble POS** | Retail and restaurant point-of-sale system |
+### 👥 HRMS
+Human resource management platform for employee operations — onboarding, attendance, payroll, and leave, all in one place.
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+### 📣 Marketing CRM
+CRM and marketing automation system built to manage leads, campaigns, and customer relationships at scale.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ERP Dashboard
+Business operations and analytics platform giving teams a real-time view of performance across the company.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 Crumble POS
+Retail and restaurant point-of-sale system built for speed, reliability, and day-to-day operations on the floor.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Why BeForth
+
+- **One ecosystem, not four separate tools** — every platform is designed to share data and work together out of the box
+- **Built for scale** — a modern, containerized stack that grows with the business
+- **Practical over flashy** — software shaped around how teams actually work day to day
+
+<br/>
 
 ## Technology
 
 <div align="center">
 
-React • Next.js • Django • Node.js • PostgreSQL • Docker • Tailwind • GitHub
+| Layer | Stack |
+|---|---|
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Django, Node.js |
+| Data | PostgreSQL |
+| Infrastructure | Docker |
+| Source Control | GitHub |
 
 </div>
 
----
+<br/>
 
 ## Our Vision
 
-We are building a **complete ecosystem of business software**.
+We're building a complete ecosystem of business software — from HR management to customer relationships to retail operations — so that BeForth becomes the infrastructure modern companies rely on to run.
 
-From **HR management to customer relationships and retail systems**, Beforth aims to provide the infrastructure that modern companies rely on.
+<br/>
 
 ---
 
 <div align="center">
 
-**Beforth — Building the infrastructure for modern businesses**
+**BeForth — Building the infrastructure for modern businesses**
 
 </div>
